@@ -1,3 +1,9 @@
+POST - https://g6iokfwmf1.execute-api.eu-central-1.amazonaws.com/prod/notes
+GET - https://g6iokfwmf1.execute-api.eu-central-1.amazonaws.com/prod/notes/{id}
+GET - https://g6iokfwmf1.execute-api.eu-central-1.amazonaws.com/prod/notes
+PUT - https://g6iokfwmf1.execute-api.eu-central-1.amazonaws.com/prod/notes/{id}
+DELETE - https://g6iokfwmf1.execute-api.eu-central-1.amazonaws.com/prod/notes/{id}
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES6, TypeScript, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
